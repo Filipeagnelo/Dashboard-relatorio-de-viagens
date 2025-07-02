@@ -1,1 +1,1 @@
-# Dashboard-relatorio-de-viagens
+Dashboard para analisar o percentual de viagens realizadas e não realizadas conforme cada motivo e cada localidade, acrescentando valores para auxiliar na tomada de decisão, conforme o ganho e a perda das viagens não realizadas. Assim podendo ter uma melhora em sua operação logística.
